@@ -1,6 +1,6 @@
-# Research Memo Drafter v1.0.0
+# Research Memo Drafter v1.0.1
 
-Initial release.
+Adds Legal Builder Hub freshness frontmatter (`freshness_category: procedural`). No functional changes.
 
 ## What's included
 

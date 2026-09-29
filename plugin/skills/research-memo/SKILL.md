@@ -2,6 +2,9 @@
 name: research-memo
 description: Draft a legal research memo that cites only the source documents (cases, statutes, briefs, contracts) the attorney has attached to a workspace folder — no open web search, no case-law database, no citation drawn from the model's general training knowledge. Every citation is anchored to a specific source file and page/paragraph. Refuses to answer any part of the question it cannot ground in a supplied source, and appends a mandatory citation-verification checklist. Use when you have the authorities on hand and need a first-draft memo built strictly from them.
 argument-hint: "[legal question] — [path to folder of source documents]"
+last_verified: 2026-09-29
+freshness_window: 12 months
+freshness_category: procedural
 ---
 
 # /research-memo — Verified-Source Legal Research Memo Drafter
